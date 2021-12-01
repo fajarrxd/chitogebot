@@ -6,21 +6,19 @@ Hello Word Fajarrxd Was Here
 - 👀 I m currently focusing on **JavaScript**.
 ````
 ## Install the dependencies:
-````
-Before running the below command,
-make sure you're in the project directory that
-you've just cloned!!
-````
+```
+Bot Only For Termux
+```
 ```bash
 > pkg update && pkg upgrade 
 > pkg install nodejs
 > pkg install tesseract 
-> git clone https://github.com/alonecans/wansap-bot-manca
-> cd wansap-bot-manca
+> git clone https://github.com/fajarrxd/chitogebot
+> cd chitogebot
 > bash install.sh
 ```
 
-### Usage
+# Run Use
 ```bash
 > npm start
 ```
