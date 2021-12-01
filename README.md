@@ -19,9 +19,8 @@ Bot Only For Termux
 > npm start
 ```
 
-</p> 
- #sosial media
 
+#### Sosial media
 
 * [`WhatsApp Admin `](https://wa.me/6283871194301)
 
