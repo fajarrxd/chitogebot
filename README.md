@@ -1,10 +1,6 @@
 ```
 Hello Word Fajarrxd Was Here
 ```
-```
-- 🌱 I’m currently learning **nothing**.
-- 👀 I m currently focusing on **JavaScript**.
-````
 #### Install the dependencies:
 ```
 Bot Only For Termux
