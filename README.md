@@ -6,9 +6,10 @@ Hello Word Fajarrxd Was Here
 - 👀 I m currently focusing on **JavaScript**.
 
 ## Install the dependencies:
+````
 Before running the below command, make sure you're in the project directory that
 you've just cloned!!
-
+````
 ```bash
 > pkg update && pkg upgrade 
 > pkg install nodejs
@@ -27,8 +28,8 @@ you've just cloned!!
  #sosial media
 
 
-* [`WhatsApp Admin `](https://wa.me/6283815956151)
+* [`WhatsApp Admin `](https://wa.me/6283871194301)
 
-* [`Chika Bot `](https://wa.me/994404762586)
+* [`Chitoge Bot `](https://wa.me/6288299827616)
 
 
